@@ -1,4 +1,4 @@
-# create modal component in funcational react component
+# create modal component in funcational react component, typescript and next.js
 
 This example shows the most usage of modal component in : `pages/index.tsx`. create : `custom-modal` component and see what happend. 
 
