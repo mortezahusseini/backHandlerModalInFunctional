@@ -1,0 +1,22 @@
+{
+  "name": "modal-backhandler-in-functional-component",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-responsive-modal": "^6.0.1"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
